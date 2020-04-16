@@ -1,0 +1,27 @@
+div{
+
+width: 200px;
+height: 200px;
+background-color: orange;
+border:solid 10px;
+padding: 20px;
+
+}
+.second{
+  width: 200px;
+  height: 200px;
+  border:solid 20px;
+  background-color: brown;
+  margin-left: 260px;
+
+}
+
+.third
+{
+  width: 200px;
+  height: 200px;
+  border:solid 10px;
+  background-color: green;
+  margin-left: 540px;
+
+}
